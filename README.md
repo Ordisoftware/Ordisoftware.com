@@ -10,5 +10,5 @@
 
 EXE and ZIP downloads for software setup and source code are available in their own [repositories](https://github.com/Ordisoftware?tab=repositories)
 
-***Archived on 2021.05.01***<br/>
+***Archived on 2021.07.06***<br/>
 [ordisoftware.github.io/Ordisoftware.com](https://ordisoftware.github.io/Ordisoftware.com)
