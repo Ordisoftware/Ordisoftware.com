@@ -1,4 +1,4 @@
-# Mirror of the website « Ordisoftware.com »
+# Mirror of the website Ordisoftware.com
 
 >Licensed under the terms of the [Creative Commons BY-NC-ND 4.0 Int](LICENSE)<br/>
 >[Project Website](https://www.ordisoftware.com/)<br/>
@@ -8,8 +8,8 @@
 
 ![French](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Création agile d'applications orientées objet.
 
+Browsable at [ordisoftware.github.io/Ordisoftware.com](https://ordisoftware.github.io/Ordisoftware.com)
+
 EXE and ZIP downloads for software setup and source code are available in their own [repositories](https://github.com/Ordisoftware?tab=repositories)
 
-**Archived on 2021.09.04**
-
-[ordisoftware.github.io/Ordisoftware.com](https://ordisoftware.github.io/Ordisoftware.com)
+***Archived on 2021.09.10***
