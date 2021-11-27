@@ -1,4 +1,5 @@
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-seagreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/license-CC_BY--NC--ND_4.0-seagreen.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[![CMS: WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?label=cms)](https://wordpress.org)
 [![Lang: PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?label=lang)](https://www.php.net/)&nbsp;
 [![DB: MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?label=db)](https://www.mysql.com)&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/Torah-Physicalist-Exegesis-Books)](#)&nbsp;<br/>
