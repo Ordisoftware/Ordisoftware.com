@@ -7,9 +7,9 @@
 
 # Mirror of the website Ordisoftware.com
 
-![English](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_great_britain.png)&nbsp;&nbsp;Agile creation of object-oriented applications.
+:gb:&nbsp;&nbsp;Agile creation of object-oriented applications.
 
-![French](https://raw.githubusercontent.com/Ordisoftware/Hebrew-Words/master/Help/flag_france.png)&nbsp;&nbsp;Création agile d'applications orientées objet.
+:fr:&nbsp;&nbsp;Création agile d'applications orientées objet.
 
 Browsable at [ordisoftware.github.io/Ordisoftware.com](https://ordisoftware.github.io/Ordisoftware.com)
 
