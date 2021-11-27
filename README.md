@@ -2,7 +2,7 @@
 [![Lang: PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?label=lang)](https://www.php.net/)&nbsp;
 [![DB: MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?label=db)](https://www.mysql.com)&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/Torah-Physicalist-Exegesis-Books)](#)&nbsp;<br/>
-[![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/hebrew-calendar)&nbsp;
+[![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com)&nbsp;
 
 # Mirror of the website Ordisoftware.com
 
