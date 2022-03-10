@@ -5,7 +5,7 @@
 [![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/Ordisoftware.com)](#)&nbsp;<br/>
 [![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com)&nbsp;
 
-# Mirror of the website Ordisoftware.com
+# Mirror of the website www.ordisoftware.com
 
 :gb:&nbsp;&nbsp;Agile creation of object-oriented applications.
 
